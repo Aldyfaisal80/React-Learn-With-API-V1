@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn-confirm {
+    background-color: #3085d6;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    border: none;
+  }
+  
+  .btn-cancel {
+    background-color: #d33;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    border: none;
+  }
+  
